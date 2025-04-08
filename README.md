@@ -11,6 +11,8 @@ Bachelor of Systems Engineering from the **University of Lima (Top 10%)**, speci
 🏆 **2nd Place** – *National Datafest ESAN-BCP* (ATM optimization using predictive models)  
 🥇 **1st Place** – *Competitive Programming Contest*  
 
+---
+
 ## 🛠️ Technical Skills  
 
 ### **Frontend**  

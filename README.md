@@ -9,7 +9,10 @@
 Bachelor of Systems Engineering from the **University of Lima (Top 10%)**, specializing in **Software Engineering**, with hands-on experience in **Full Stack Development**. Skilled in **React, Angular, .NET C#, Node.js, and React Native**, with expertise in **SQL Server, PostgreSQL, and MySQL**. Passionate about building **scalable solutions**, from **real estate platforms** to **VR-integrated games** using **Unity & Deep Learning**.  
 
 🏆 **2nd Place** – *National Datafest ESAN-BCP* (ATM optimization using predictive models)  
+🔗 [See post on LinkedIn](https://www.linkedin.com/posts/universidad-esan_datafest-esan-ganadores-activity-7246516289836302337-fL3G/?utm_source=share&utm_medium=member_desktop)  
+
 🥇 **1st Place** – *Competitive Programming Contest*  
+🔗 [See on Ulima Web](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas/noticias/equipos-ulima-ocupan-primeros-puestos-en-concurso)  
 
 ---
 
